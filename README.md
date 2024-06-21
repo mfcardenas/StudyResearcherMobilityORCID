@@ -18,12 +18,12 @@ Use of data in the file is governed by the data file's terms of use (Spanish ver
 ## ORCID data structure and hierarchy
 Below is an outline of the Activities file hierarchy.
 
-![Activity File Hierarchy](path/to/activity-file-hierarchy.png)
+![Activity File Hierarchy](https://github.com/mfcardenas/StudyResearcherMobilityORCID/tree/61babd82527ff4aee9929ff361f17819fdc45f65/img/activity-file-hierarchy.png)
 *Source: ORCID*
 
 Likewise, below is a diagram of the hierarchy of the Summaries file.
 
-![Summary Archive Hierarchy](path/to/summary-archive-hierarchy.png)
+![Summary Archive Hierarchy](https://github.com/mfcardenas/StudyResearcherMobilityORCID/tree/61babd82527ff4aee9929ff361f17819fdc45f65/img/summary-archive-hierarchy.png)
 *Source: ORCID*
 
 ## Queries and data analysis
@@ -31,6 +31,6 @@ PowerBI is used to generate subsample query reports in the virtual machine, whic
 
 The following image shows one of the generated previews.
 
-![Map and table of previous results](path/to/map-table-preview.png)
+![Map and table of previous results](https://github.com/mfcardenas/StudyResearcherMobilityORCID/tree/61babd82527ff4aee9929ff361f17819fdc45f65/img/map-table-preview.png)
 *Source: own elaboration based on ORCID data*
 
